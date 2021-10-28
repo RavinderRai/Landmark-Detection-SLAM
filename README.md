@@ -1,6 +1,6 @@
 # Landmark-Detection-SLAM
 
-This project tracks the movement of a robot, using sensory data to estimate the robots position based on its distance from other notable landmarks positions. The idea is to create a world with a robot and landmarks, where the initial robots location will be fixed and the landmarks positions will be randomized. Then motion and sense functions will be used to iteratively update the positions of the robots and landmarks to then approoximate their locations.
+This project tracks the movement of a robot, using sensory data to estimate the robots position based on its distance from other notable landmarks positions. The idea is to create a world with a robot and landmarks, where the initial robots location will be fixed and the landmarks positions will be randomized. Then motion and sense functions will be used to iteratively update the positions of the robots and landmarks. We then use the collected data of the robot and landmarks positions to approoximate their locations.
 While this project is written in Python, the methodology used here heavily relies on linear algebra, and an understanding of vectors, matrix multiplication, 
 and matrix transformations will be necessary. 
 

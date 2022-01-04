@@ -5,7 +5,7 @@ While this project is written in Python, the methodology used here heavily relie
 and matrix transformations will be necessary. 
 
 ## Python Libraries required
-Standard python libraries such as numpy and matplotlib will be needed, along with the package seaborn, which is a visualiztion package used to help understand the world that we create.
+Standard python libraries such as numpy and matplotlib.pyplot will be needed, along with the package seaborn, which is a visualiztion package used to help understand the world that we create.
 
 ### Installation
 To install any library, just use the pip install function, for example:
